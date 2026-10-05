@@ -1,0 +1,9 @@
+field	value
+figure	Fig4_7_integrated_evidence_map
+figure_type	evidence-constrained schematic
+new_quantitative_analysis	no
+causal_chain_PKA_Yef3_Hsp104_Guk1	no
+Yef3_T972_status	pre-causal association
+Guk1_Hsp104_status	descriptive support
+Pab1_Hsp104_status	perturbational support
+script_sha256	8ec2cfdc8b981c3fe8ccbfa57e5114343c4b778f681e8f3ca8b5bd85b60d6c49
